@@ -7,7 +7,12 @@
 	margin-top: 20px;
 }
 .footer{
+	position: absolute;
 	background: #74D0ED;
 	width: 100%;
-	padding: 80px;
+	padding: 20px;
+	bottom: 0px;
+}
+.contact{
+	float: right;
 }
